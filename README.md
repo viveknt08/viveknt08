@@ -89,10 +89,9 @@ I focus on **logic, clarity, and correctness**, and I believe that consistent pr
 
 ## 📈 GitHub Activity  
 
-![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveknt08&show_icons=true&theme=tokyonight)
-)  
-![Top Languages](![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknt08&layout=compact&theme=tokyonight)
-)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveknt08&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveknt08&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 
 ---
 
