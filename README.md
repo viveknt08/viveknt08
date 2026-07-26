@@ -17,15 +17,54 @@
 
 ### 🚀 About Me
 
-I'm an engineering student who enjoys turning **concepts into working software** — from ML-powered healthcare tools to low-level systems programming. I focus on **logic, clarity, and correctness**, and believe consistent practice beats shortcuts.
+<div align="center">
 
-```yaml
-education:   B.Tech CSE, Bennett University, Greater Noida — CGPA 9.35/10 (2028)
-focus:       ML/AI systems in healthcare, network security, competitive programming
-achievement: Semi-Finalist @ ET AI Hackathon 2026
-grinding:    170+ LeetCode problems — DP, Divide & Conquer, Binary Search, Greedy
-philosophy:  Focus on fundamentals. Write clean code. Improve a little every day.
-```
+> *I turn **concepts into working software** — from ML-powered healthcare tools to low-level systems programming.*
+> *I focus on **logic, clarity, and correctness**, and believe consistent practice beats shortcuts.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![Education](https://img.shields.io/badge/🎓_Education-6366F1?style=for-the-badge&labelColor=0f172a)
+
+B.Tech CSE, Bennett University, Greater Noida
+**CGPA 9.35/10** · Expected 2028
+
+</td>
+<td width="50%" valign="top">
+
+![Focus](https://img.shields.io/badge/🧠_Current_Focus-EC4899?style=for-the-badge&labelColor=0f172a)
+
+ML/AI systems in healthcare, network security, and competitive programming
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+![Achievement](https://img.shields.io/badge/🏆_Achievement-F59E0B?style=for-the-badge&labelColor=0f172a)
+
+**Semi-Finalist** @ ET AI Hackathon 2026
+
+</td>
+<td width="50%" valign="top">
+
+![Grinding](https://img.shields.io/badge/💪_Grinding-10B981?style=for-the-badge&labelColor=0f172a)
+
+**170+** LeetCode problems — DP, Divide & Conquer, Binary Search, Greedy
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`🧭 Philosophy` — *Focus on fundamentals. Write clean code. Improve a little every day.*
+
+</div>
 
 ---
 
@@ -59,31 +98,43 @@ philosophy:  Focus on fundamentals. Write clean code. Improve a little every day
 <tr>
 <td width="50%" valign="top">
 
-**🧠 NeuroAI — TBI Rehabilitation Platform**
+![NeuroAI](https://img.shields.io/badge/🧠_NeuroAI-TBI_Rehabilitation_Platform-6366F1?style=for-the-badge&labelColor=0f172a)
+
 AI-assisted rehab platform for traumatic brain injury patients.
 - EfficientNet-B4 hemorrhage classification + Grad-CAM explainability
 - PPO reinforcement learning agent for adaptive recommendations
 - Phoneme-level speech scoring (Allosaurus + Levenshtein DP)
 
+`EfficientNet-B4` `Grad-CAM` `PPO` `Speech Scoring`
+
 </td>
 <td width="50%" valign="top">
 
-**🩺 DermAI — Skin Disease Classifier**
+![DermAI](https://img.shields.io/badge/🩺_DermAI-Skin_Disease_Classifier-EC4899?style=for-the-badge&labelColor=0f172a)
+
 CNN-based image classification system for detecting and categorizing skin diseases from images.
+
+`CNN` `Computer Vision` `Image Classification`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🔒 Deep Packet Inspection (DPI)**
+![DPI](https://img.shields.io/badge/🔒_Deep_Packet_Inspection-Network_Traffic_Analyzer-F59E0B?style=for-the-badge&labelColor=0f172a)
+
 Multi-threaded C++/Python pipeline for real-time network traffic inspection and analysis.
+
+`C++` `Python` `Multi-threading` `Network Security`
 
 </td>
 <td width="50%" valign="top">
 
-**🌆 UrbanCool AI**
+![UrbanCool AI](https://img.shields.io/badge/🌆_UrbanCool_AI-Urban_Heat_Dashboard-10B981?style=for-the-badge&labelColor=0f172a)
+
 GIS-based urban heat dashboard with explainable AI (XAI) and a mitigation recommendation engine.
+
+`GIS` `XAI` `Data Dashboard`
 
 </td>
 </tr>
@@ -91,7 +142,7 @@ GIS-based urban heat dashboard with explainable AI (XAI) and a mitigation recomm
 
 <div align="center">
 
-**🎨 Frontend / Design Work:** OBYS Agency Clone · Figma-designed E-Commerce Dashboard · React Portfolio *(in progress)*
+![Frontend](https://img.shields.io/badge/🎨_Frontend_%2F_Design_Work-OBYS_Clone_·_E--Commerce_Dashboard_·_React_Portfolio-6366F1?style=flat-square&labelColor=0f172a)
 
 </div>
 
